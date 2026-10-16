@@ -1,5 +1,5 @@
 {
   "enabled": true,
-  "emergency_stop": false,
+  "emergency_stop": true,
   "sha256": "B8:D2:5B:84:5F:27:6E:25:85:1F:7A:86:26:1F:C9:C9:8E:D4:80:22:40:C3:1B:21:D4:66:95:8D:5E:25:09:6C"
 }
